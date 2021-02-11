@@ -1,6 +1,0 @@
-object oriented
-
-classes---
-behaviour---methods/functions
-State--- properties
-Identity---- a unique value that every object will contain data 
